@@ -24,9 +24,10 @@ Key EDA steps:
 - Merged multiple sheets into a single relational structure
 - Created visualizations:
   - Revenue trends over time
-  - Top 10 products by sales
+  - Top 10 products Analysis
   - Regional sales performance
   - Budget vs. actual revenue analysis
+  - Channel Analysis
 
 ---
 
@@ -47,4 +48,4 @@ Key EDA steps:
 
 ---
 
-## 📂 Repository Structure
+
